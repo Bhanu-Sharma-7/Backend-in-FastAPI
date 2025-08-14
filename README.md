@@ -69,7 +69,3 @@ A simple CRUD backend application built with FastAPI, SQLAlchemy, and Pydantic.
 - `GET /users/{user_id}` - Get user by ID
 - `PUT /users/{user_id}` - Update user by ID
 - `DELETE /users/{user_id}` - Delete user by ID
-
-## License
-
-This project is licensed under the MIT License.
